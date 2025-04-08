@@ -1,0 +1,19 @@
+{
+  "id": "m7gkz4w2",
+  "name": "ELIAS EMPRESAS",
+  "isEnabled": true,
+  "action": "SEND_DM",
+  "userQuery": "from:nytimes cooking",
+  "text": "Olá aqui é as Elias Empresas, Logo logo vamos te responder",
+  "mentionCount": "5",
+  "hashtagCount": "5",
+  "useOptions": false,
+  "followLabnol": false,
+  "consumerKey": "nWj0abAqKr5szj57o0yDU6ugb",
+  "consumerSecret": "2Bnyg45Ce2qvWcCryuLro9OEwTIpnu8KSukiTxexqZ5VRMsOMj",
+  "accessToken": "1732742971965984768-1CtZnJXjlS1XkiTKSmii3cAOXhgFCD",
+  "accessTokenSecret": "dWYirQJwGKUNLZrmTk2e5WdJFrnpBrgA8CPSBqVAXjI0l",
+  "authorUserName": "@eliasempresas",
+  "updatedAt": 1740251995208,
+  "createdAt": 1740251967825
+}
